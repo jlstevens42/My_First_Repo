@@ -1,0 +1,72 @@
+nav {
+    background-color:lightgrey;
+    width:100%;
+    height:50px;
+}
+.blockelement {
+    text-align: center;
+    display: inline-block;
+    background-color: darkslategrey;
+    color:white;
+    width: 10%;
+    padding:16px;
+    margin:0 auto;
+    margin-left:auto;
+}
+.left {
+    float: left;
+    width:30%;
+    height:700px;
+    background-color:lightgrey;
+    display: inline-block;
+}
+.right {
+    float: left;
+    width: 70%;
+    height:700px;
+    background-color:green;
+    display: inline-block;
+}
+.lefttop {
+    float:top;
+    display:inline-block;
+    width:90%;
+    height:27%;
+    background-color:orange;
+    padding:5%;
+}
+.leftbottom {
+    float:top;
+    display: inline-block;
+    width:90%;
+    height:67%;
+    background-color:orangered;
+    padding: 5%;
+}
+img.profile {
+    width: 25%;
+    height:100px;
+    align:center;
+}
+.righttop {
+    width:80%;
+    height:45%;
+    padding:5%;
+}
+.rightbottom {
+    width:80%;
+    height:45%;
+    padding:5%;
+}
+.petstatus {
+    font-weight:300;
+}
+textarea {
+    width:fit-content;
+    height:auto;
+}
+img.info {
+    width: 25%;
+    height:100px;
+    align:center;
+}
